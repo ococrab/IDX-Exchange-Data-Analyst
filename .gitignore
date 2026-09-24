@@ -5,3 +5,5 @@ csv/
 CRMLSSold_Residential_Filtered.csv
 *_Filtered.csv
 CRMLSSold_Residential_Filtered.csv
+CRMLSSold_Enriched.csv
+CRMLSListing_Enriched.csv
